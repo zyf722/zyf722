@@ -14,3 +14,6 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.PROFILE_TOKEN }}
+          plugin_notable: yes
+          plugin_notable_filter: stars:>100 # Only display repositories with 500 stars or more (syntax based on GitHub search query)
+          plugin_notable_repositories: yes     # Display repositories name instead of only organization name
