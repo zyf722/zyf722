@@ -1,6 +1,6 @@
 ### So here is Max Alex 👋
 
-I'm **Max Alex** (aka **zyf722**), a SEUer and amateur game developer.
+I'm **Max Alex** (aka **zyf722**), a SEUer and amateur game developer, majoring in Software Engineering.
 
 - :construction: Currently working on my game project _The Last DREAM_ and _Futurize_ in RMVA
 - :books: Studying Unity game engine
