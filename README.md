@@ -21,4 +21,16 @@ I'm **Max Alex** (aka **zyf722**), a SEUer and amateur game developer, majoring 
 
 ## :computer: Coding Time Statistics
 <!--START_SECTION:waka-->
+
+```python
+From: 20 November 2023 - To: 27 November 2023
+
+Total Time: 2 hrs 28 mins
+
+C#         53 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.81 %
+Python     11 mins         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.67 %
+XAML       1 min           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.91 %
+XML        0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.09 %
+```
+
 <!--END_SECTION:waka-->
