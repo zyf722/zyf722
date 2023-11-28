@@ -17,5 +17,7 @@ jobs:
           SHOW_TITLE: true
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           SHOW_TOTAL: true
+          CODE_LANG: python
+          IGNORED_LANGUAGES: YAML JSON TOML Binary plaintext Markdown
           
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
