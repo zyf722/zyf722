@@ -6,6 +6,8 @@ on:
   schedule:
     # runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
+  # Lines below let you run workflow manually and on each commit (optional)
+  push: {branches: ["master", "main"]}
 
 jobs:
   update-readme:
