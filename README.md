@@ -23,13 +23,13 @@ I'm **Max Alex** (aka **zyf722**), a SEUer and amateur game developer, majoring 
 <!--START_SECTION:waka-->
 
 ```python
-From: 18 January 2024 - To: 25 January 2024
+From: 19 January 2024 - To: 26 January 2024
 
-Total Time: 15 hrs 27 mins
+Total Time: 14 hrs 38 mins
 
-Text       7 hrs 25 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.26 %
-Other      2 hrs 30 mins   ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.99 %
-Python     1 hr 43 mins    ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.62 %
+Text     7 hrs 54 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   45.62 %
+Other    2 hrs 42 mins   ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.58 %
+Python   39 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.82 %
 ```
 
 <!--END_SECTION:waka-->
