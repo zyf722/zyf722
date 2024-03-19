@@ -1,16 +1,16 @@
 ## So here is Max Alex 👋
 
-I'm **Max Alex** (aka **zyf722**), a SEUer and amateur game developer, majoring in Software Engineering.
+I'm **Max Alex** (aka **zyf722**), a SEUer majoring in Software Engineering.
 
 ### 🚀 Tech Stack
-- 💻 Python (Favorite!)
-- ☕ Java / 🖖 Vue
-- 🗜️ C++
+- 💻 Python
+- ☕ Java / 🖖 Vue.js
+- 🗜️ C/C++
 
 ### 📚 Learning
-- 🎮 Unity
+- 🚀 Golang
 - 📱 Flutter & Dart
-- 🚀 Maybe Go / Rust / TypeScript in the Future
+- 🚀 Maybe Rust / TypeScript in the Future
 
 ### 💡 Contact me
 - ✉️ Email: MaxMixAlex@protonmail.com
