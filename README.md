@@ -23,14 +23,14 @@ I'm **Max Alex** (aka **zyf722**), a SEUer majoring in Software Engineering.
 <!--START_SECTION:waka-->
 
 ```python
-From: 24 March 2024 - To: 31 March 2024
+From: 25 March 2024 - To: 01 April 2024
 
-Total Time: 31 hrs 5 mins
+Total Time: 30 hrs 57 mins
 
-TypeScript    5 hrs 42 mins   ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.81 %
-Other         2 hrs 51 mins   ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.41 %
-Python        2 hrs 24 mins   ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.12 %
-JavaScript    2 hrs 4 mins    ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.12 %
+TypeScript    5 hrs 35 mins   ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.53 %
+Python        4 hrs 47 mins   ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.16 %
+Other         2 hrs 51 mins   ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.44 %
+JavaScript    2 hrs 1 min     ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.99 %
 ```
 
 <!--END_SECTION:waka-->
