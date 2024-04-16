@@ -2,15 +2,16 @@
 
 I'm **Max Alex** (aka **zyf722**), a SEUer majoring in Software Engineering.
 
-### 🚀 Tech Stack
+### 🚀 Proficient
 - 💻 Python
-- 
-- ☕ Java / 🖖 Vue.js
-- 🗜️ C/C++
 
-### 📚 Learning
+### 📚 Current Learning
 - 🚀 Golang
 - 🖨 TypeScript
+
+### Experience
+- ☕ Java / 🖖 Vue.js
+- 🗜️ C/C++
 - 📱 Flutter & Dart
 
 ### 💡 Contact me
