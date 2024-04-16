@@ -4,13 +4,14 @@ I'm **Max Alex** (aka **zyf722**), a SEUer majoring in Software Engineering.
 
 ### 🚀 Tech Stack
 - 💻 Python
+- 
 - ☕ Java / 🖖 Vue.js
 - 🗜️ C/C++
 
 ### 📚 Learning
 - 🚀 Golang
+- 🖨 TypeScript
 - 📱 Flutter & Dart
-- 🚀 Maybe Rust / TypeScript in the Future
 
 ### 💡 Contact me
 - ✉️ Email: MaxMixAlex@protonmail.com
