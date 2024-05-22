@@ -12,7 +12,6 @@ I'm **Max Alex** (aka **zyf722**), a SEUer majoring in Software Engineering.
 ### Experience
 - ☕ Java / 🖖 Vue.js
 - 🗜️ C/C++
-- 📱 Flutter & Dart
 
 ### 💡 Contact me
 - ✉️ Email: MaxMixAlex@protonmail.com
