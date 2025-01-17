@@ -6,12 +6,7 @@ I'm **Max Alex** (aka **zyf722**), a SEUer majoring in Software Engineering.
 - 💻 Python
 
 ### 📚 Current Learning
-- 🚀 Golang
 - 🖨 TypeScript
-
-### Experience
-- ☕ Java / 🖖 Vue.js
-- 🗜️ C/C++
 
 ### 💡 Contact me
 - ✉️ Email: MaxMixAlex@protonmail.com
