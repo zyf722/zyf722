@@ -19,12 +19,11 @@ I'm **Max Alex** (aka **zyf722**), a SEUer majoring in Software Engineering and 
 <!--START_SECTION:waka-->
 
 ```python
-From: 25 June 2025 - To: 02 July 2025
+From: 26 June 2025 - To: 03 July 2025
 
-Total Time: 8 hrs 14 mins
+Total Time: 0 secs
 
-Python   7 hrs 56 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   96.30 %
-Other    0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
