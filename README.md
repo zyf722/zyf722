@@ -1,6 +1,6 @@
 ## So here is Max Alex 👋
 
-I'm **Max Alex** (aka **zyf722**), a SEUer majoring in Software Engineering and an intern @ [SAP](https://github.com/SAP) Labs China.
+I'm **Max Alex** (aka **zyf722**), a former SEUer and an engineer @ [SAP](https://github.com/SAP) Labs China.
 
 ### 🚀 Proficient
 - 💻 Python
