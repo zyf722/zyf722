@@ -19,12 +19,11 @@ I'm **Max Alex** (aka **zyf722**), a former SEUer and an engineer @ [SAP](https:
 <!--START_SECTION:waka-->
 
 ```python
-From: 20 August 2025 - To: 27 August 2025
+From: 21 August 2025 - To: 28 August 2025
 
-Total Time: 1 hr 5 mins
+Total Time: 0 secs
 
-Python     49 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀   72.48 %
-Other      3 mins          ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.41 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
