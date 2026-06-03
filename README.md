@@ -19,9 +19,9 @@ I'm **Max Alex** (aka **zyf722**), a former SEUer and an engineer @ [SAP](https:
 <!--START_SECTION:waka-->
 
 ```python
-From: 26 May 2026 - To: 02 June 2026
+From: 27 May 2026 - To: 03 June 2026
 
-Total Time: 1 hr 8 mins
+Total Time: 1 hr 39 mins
 ```
 
 <!--END_SECTION:waka-->
